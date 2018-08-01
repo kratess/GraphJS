@@ -1,6 +1,6 @@
 # GraphJS
 
-GraphJS is a super basic library that allow you to make basic graphs
+GraphJS is a super basic repository that allow you to make basic graphs
 
 ## Getting Started
 
